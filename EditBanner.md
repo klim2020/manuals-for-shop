@@ -25,6 +25,6 @@
   
   Баннер представляет собой составной макет, состоящий из нескольких элементов:
   
-  ![pic3](/howto_edit_banner_settings.png)
+  ![pic3](/howto_banner_layout.png)
   
   
