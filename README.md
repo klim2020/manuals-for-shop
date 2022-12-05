@@ -2,6 +2,6 @@
 =======================
 
 
-[Работа с баннером](blob/main/EditBanner.md/EditBanner.md)
+[Работа с баннером](blob/main/EditBanner.md)
     
 
