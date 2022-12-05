@@ -2,6 +2,6 @@
 =======================
 
 
-[Работа с баннером](/klim2020/manuals-for-shop/EditBanner.md)
+[Работа с баннером](blob/main/EditBanner.md/EditBanner.md)
     
 
